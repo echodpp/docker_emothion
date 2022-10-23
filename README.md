@@ -18,7 +18,7 @@ print(prediction)
 ```
 python main.py
 ```
-docker build -t echodpp/bert-base-uncased:2022.09.30 -f docker/bert-base-emotion/Dockerfile .
+docker build -t echodpp/bert-base-uncased:2022.09.30 -f docker/bert-base-uncased/Dockerfile .
 ```
 docker run 
 ```
